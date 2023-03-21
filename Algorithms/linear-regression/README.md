@@ -7,7 +7,6 @@ For Example: The weight of the person is linearly related to their height. So, t
 
 
 
-## Screenshots
 
 ![App Screenshot](https://pimages.toolbox.com/wp-content/uploads/2022/04/07040339/25-4.png)
 
