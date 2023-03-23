@@ -11,7 +11,7 @@ It is also called simple regression, it establishes the relationship between two
 
 # Formula for simple regression : 
 
-y = ɑ + bx
+# y = ɑ + bx
 
 where,  y = y-coordinate;       
         a = y-intercept;        
