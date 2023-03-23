@@ -14,7 +14,7 @@ Multiple regression is an extension of linear regression that uses just one expl
 
 y = b₀ + b₁x₁ + b₂x₂ +........bnxn
 
-where,  y = dependent variable 
-        x = expanatory variables
-        b = y-intercept
+where,  y = dependent variable;     
+        x = expanatory variables;   
+        b = y-intercept;    
         bn = slope 
