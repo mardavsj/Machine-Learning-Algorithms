@@ -12,7 +12,7 @@ Multiple regression is an extension of linear regression that uses just one expl
 
 # Formula for multiple regression : 
 
-y = b₀ + b₁x₁ + b₂x₂ +........bnxn
+# y = b₀ + b₁x₁ + b₂x₂ +........bnxn
 
 where,  y = dependent variable;     
         x = expanatory variables;   
