@@ -10,3 +10,11 @@ Multiple regression is an extension of linear regression that uses just one expl
 ![App Screenshot](https://miro.medium.com/v2/resize:fit:1200/1*d76fdzlaRBvmWfRy2mxqhA.png)
 
 
+# Formula for multiple regression : 
+
+y = b₀ + b₁x₁ + b₂x₂ +........bnxn
+
+where,  y = dependent variable 
+        x = expanatory variables
+        b = y-intercept
+        bn = slope 
