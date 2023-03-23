@@ -13,7 +13,7 @@ It is also called simple regression, it establishes the relationship between two
 
 y = ɑ + bx
 
-where,  y= y-coordinate
+where,  yc= y-coordinate
         a = y-intercept
         b = slope
         x = x-coordinate
