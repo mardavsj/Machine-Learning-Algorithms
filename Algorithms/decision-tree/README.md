@@ -3,7 +3,7 @@
 
 A decision tree is a flowchart-like structure used to categorize or make predictions based on how a previous set of questions were answered.
 
-![App Screenshot](https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png)
+![App Screenshot](https://miro.medium.com/v2/resize:fit:1200/0*CJ1XapmHqSLY0mAv)
 
 # There are two types of decision trees:-
 
