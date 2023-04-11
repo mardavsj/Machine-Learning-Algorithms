@@ -7,4 +7,4 @@ In a simple way - find the best series of actions based on the agent's current s
 
 Here, the Q stands for Quality.
 
-![App Screenshot] (https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Q-Learning_Matrix_Initialized_and_After_Training.png/440px-Q-Learning_Matrix_Initialized_and_After_Training.png)
+![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Q-Learning_Matrix_Initialized_and_After_Training.png/440px-Q-Learning_Matrix_Initialized_and_After_Training.png)
