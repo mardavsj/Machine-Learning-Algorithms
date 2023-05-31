@@ -3,9 +3,9 @@
 
 - ### ALGORITHMS :
     - #### [REINFORCEMENT](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement) :
-        - #### Deep Q Network
-        - #### Genetic Algorithm
-        - #### Q Learning
+        - #### [Deep Q Network](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Deep%20Q%20Network)
+        - #### [Genetic Algorithm](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Genetic%20Algorithm)
+        - #### [Q Learning](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Q%20Learning)
     - #### [SUPERVISED](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised) :
         - #### Classification :
             - Decision Tree 
