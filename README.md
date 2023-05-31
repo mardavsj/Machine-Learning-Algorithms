@@ -6,7 +6,7 @@
         - #### Deep Q Network
         - #### Genetic Algorithm
         - #### Q Learning
-    - #### SUPERVISED :
+    - #### [SUPERVISED](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised) :
         - #### Classification :
             - Decision Tree 
             - KNN
@@ -16,7 +16,7 @@
             - Linear Regression
             - Polynomial Regression
             - Ridge Regression
-    - #### UNSUPERVISED :
+    - #### [UNSUPERVISED](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised) :
         - #### Clustering :
             - K-means
             - Mean Shift 
