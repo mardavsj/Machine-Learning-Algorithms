@@ -2,7 +2,7 @@
 ### Guide to find your favorite algorithm ✌️
 
 - ### ALGORITHMS :
-    - #### REINFORCEMENT :
+    - #### [REINFORCEMENT](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement) :
         - #### Deep Q Network
         - #### Genetic Algorithm
         - #### Q Learning
