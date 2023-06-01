@@ -7,7 +7,7 @@
         - #### [Genetic Algorithm](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Genetic%20Algorithm)
         - #### [Q Learning](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Q%20Learning)
     - #### [SUPERVISED](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised) :
-        - #### Classification :
+        - #### [Classification :
             - Decision Tree 
             - KNN
             - Logistic Regression
