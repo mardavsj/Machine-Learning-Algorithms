@@ -7,22 +7,22 @@
         - #### [Genetic Algorithm](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Genetic%20Algorithm)
         - #### [Q Learning](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Q%20Learning)
     - #### [SUPERVISED](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised) :
-        - #### Classification :
+        - #### [Classification](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification) :
             - Decision Tree 
             - KNN
             - Logistic Regression
             - Naive Bayes
-        - #### Regression :
+        - #### [Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Regression) :
             - Linear Regression
             - Polynomial Regression
             - Ridge Regression
     - #### [UNSUPERVISED](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised) :
-        - #### Clustering :
+        - #### [Clustering](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Clustering) :
             - K-means
             - Mean Shift 
-        - #### Dimension Reduction :
+        - #### [Dimension Reduction](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Dimension%20Reduction) :
             - SVD
-        - #### Pattern Search :
+        - #### [Pattern Search](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Pattern%20Search) :
             - Euclat
             - FP Growth
 
