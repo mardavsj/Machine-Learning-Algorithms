@@ -8,14 +8,14 @@
         - #### [Q Learning](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Q%20Learning)
     - #### [SUPERVISED](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised) :
         - #### [Classification](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification) :
-            - [Decision Tree](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification/Decision%20Tree) 
+            - [Decision Tree](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification/decision-tree) 
             - [KNN](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification/KNN)
-            - [Logistic Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification/Logistic%20Regression)
-            - [Naive Bayes](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification/Naive%20Bayes)
+            - [Logistic Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification/logistic-regression)
+            - [Naive Bayes](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Classification/naive-bayes)
         - #### [Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Regression) :
-            - [Linear Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Regression/Linear%20Regression)
-            - [Polynomial Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Regression/Polynomial%20Regression)
-            - [Ridge Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Regression/Ridge%20Regression)
+            - [Linear Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Regression/linear-regression)
+            - [Polynomial Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Regression/polynomial-regression)
+            - [Ridge Regression](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Supervised/Regression/ridge-regression)
     - #### [UNSUPERVISED](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised) :
         - #### [Clustering](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Clustering) :
             - [K-means](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Clustering/K-means)
