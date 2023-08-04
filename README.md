@@ -17,7 +17,9 @@
         - #### [Clustering](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Clustering) :
             - [K-means](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Clustering/K-means)
             - [Mean Shift](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Clustering/Mean%20Shift)
-        - #### [Pattern Search](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Clustering) :
+        - #### [Pattern Search](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Pattern%20Search) :
+            - [Euclat](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Pattern%20Search/Euclat)
+            - [FP Growth](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Unsupervised/Pattern%20Search/FP%20Growth)
               
     - #### [REINFORCEMENT](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement) :
         - #### [Deep Q Network](https://github.com/mardavsj/Machine-Learning-Algorithms/tree/main/Algorithms/Reinforcement/Deep%20Q%20Network)
